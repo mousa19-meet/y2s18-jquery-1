@@ -26,3 +26,5 @@ function updateZRotation(newZ) {
   z = newZ;
   updateRotation();
 }
+
+$.(".logo").css("width",200)
